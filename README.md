@@ -1,1 +1,1 @@
-# DiditalEarthArchive
+# DigitalEarthArchive
